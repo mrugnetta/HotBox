@@ -1,0 +1,95 @@
+{
+	"pattrstorage" : 	{
+		"name" : "HotBox_stageLeft[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bothWaitTime" : [ 0.0 ],
+					"dollPosNum2" : [ 0 ],
+					"dollyPosSlider2" : [ 0 ],
+					"dollyTravelTime2" : [ 5 ],
+					"dollyWaitTime" : [ 0.0 ],
+					"duoOneMaxRandomSpeedBlk" : [ 0.0 ],
+					"duoOneMaxRandomSpeedPict" : [ 0.0 ],
+					"duoOneMinRandomSpeedBlk" : [ 0.0 ],
+					"duoOneMinRandomSpeedPict" : [ 0.0 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoMaxRandomSpeedBlk" : [ 0.0 ],
+					"duoTwoMaxRandomSpeedPict" : [ 0.0 ],
+					"duoTwoMinRandomSpeedBlk" : [ 0.0 ],
+					"duoTwoMinRandomSpeedPict" : [ 0.0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"enableBlackOne" : [ 0 ],
+					"enableBlackTwo" : [ 0 ],
+					"enableOneOne" : [ 0 ],
+					"enableOneTwo" : [ 0 ],
+					"enableTwoOne" : [ 0 ],
+					"enableTwoTwo" : [ 0 ],
+					"globalPreWait" : [ 0.0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial2" : [ 0 ],
+					"panPosNum2" : [ 0 ],
+					"panTravelTime2" : [ 5 ],
+					"panWaitTime" : [ 0.0 ],
+					"screenOneTexture" : [ 0 ],
+					"screenOneTexture[1]" : [ 0 ],
+					"syncRandomLocalToggle" : [ 0 ],
+					"textureDuoOne" : [ 0 ],
+					"textureDuoTwo" : [ 0 ],
+					"cueName" : [ "HOME!" ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"bothWaitTime" : [ 0.0 ],
+					"dollPosNum2" : [ 125 ],
+					"dollyPosSlider2" : [ 125 ],
+					"dollyTravelTime2" : [ 5 ],
+					"dollyWaitTime" : [ 0.0 ],
+					"duoOneMaxRandomSpeedBlk" : [ 0.0 ],
+					"duoOneMaxRandomSpeedPict" : [ 0.0 ],
+					"duoOneMinRandomSpeedBlk" : [ 0.0 ],
+					"duoOneMinRandomSpeedPict" : [ 0.0 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoMaxRandomSpeedBlk" : [ 0.0 ],
+					"duoTwoMaxRandomSpeedPict" : [ 0.0 ],
+					"duoTwoMinRandomSpeedBlk" : [ 0.0 ],
+					"duoTwoMinRandomSpeedPict" : [ 0.0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"enableBlackOne" : [ 1 ],
+					"enableBlackTwo" : [ 1 ],
+					"enableOneOne" : [ 0 ],
+					"enableOneTwo" : [ 0 ],
+					"enableTwoOne" : [ 0 ],
+					"enableTwoTwo" : [ 0 ],
+					"globalPreWait" : [ 0.0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial2" : [ 130 ],
+					"panPosNum2" : [ 130 ],
+					"panTravelTime2" : [ 5 ],
+					"panWaitTime" : [ 0.0 ],
+					"screenOneTexture" : [ 0 ],
+					"screenOneTexture[1]" : [ 0 ],
+					"syncRandomLocalToggle" : [ 0 ],
+					"textureDuoOne" : [ 0 ],
+					"textureDuoTwo" : [ 0 ],
+					"cueName" : [ "Start" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
