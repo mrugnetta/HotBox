@@ -1,0 +1,273 @@
+{
+	"pattrstorage" : 	{
+		"name" : "HotBox_stageLeft[1]",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"cueWaitTime" : [ 1000.0 ],
+					"dollPosNum" : [ 0 ],
+					"dollyPosSlider" : [ 0 ],
+					"dollyTravelTime" : [ 5 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 0 ],
+					"panPosNum" : [ 0 ],
+					"panTravelTime" : [ 5 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "HOME!" ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"cueWaitTime" : [ 0.1 ],
+					"dollPosNum" : [ 155 ],
+					"dollyPosSlider" : [ 155 ],
+					"dollyTravelTime" : [ 120 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 161 ],
+					"panPosNum" : [ 161 ],
+					"panTravelTime" : [ 100 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "Move", "center" ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"cueWaitTime" : [ 0.1 ],
+					"dollPosNum" : [ 50 ],
+					"dollyPosSlider" : [ 50 ],
+					"dollyTravelTime" : [ 30 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 145 ],
+					"panPosNum" : [ 145 ],
+					"panTravelTime" : [ 5 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "Pan", "Right" ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"cueWaitTime" : [ 0.1 ],
+					"dollPosNum" : [ 50 ],
+					"dollyPosSlider" : [ 50 ],
+					"dollyTravelTime" : [ 60 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 106 ],
+					"panPosNum" : [ 106 ],
+					"panTravelTime" : [ 50 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "P", "center" ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"cueWaitTime" : [ 1000.0 ],
+					"dollPosNum" : [ 183 ],
+					"dollyPosSlider" : [ 183 ],
+					"dollyTravelTime" : [ 100 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 152 ],
+					"panPosNum" : [ 152 ],
+					"panTravelTime" : [ 45 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "move", "left" ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"cueWaitTime" : [ 0.1 ],
+					"dollPosNum" : [ 121 ],
+					"dollyPosSlider" : [ 121 ],
+					"dollyTravelTime" : [ 100 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 183 ],
+					"panPosNum" : [ 183 ],
+					"panTravelTime" : [ 45 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "move", "center" ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"cueWaitTime" : [ 0.1 ],
+					"dollPosNum" : [ 13 ],
+					"dollyPosSlider" : [ 13 ],
+					"dollyTravelTime" : [ 100 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 71 ],
+					"panPosNum" : [ 71 ],
+					"panTravelTime" : [ 65 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "M", "right" ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"cueWaitTime" : [ 1000.0 ],
+					"dollPosNum" : [ 0 ],
+					"dollyPosSlider" : [ 0 ],
+					"dollyTravelTime" : [ 5 ],
+					"duoOneRandom" : [ 0 ],
+					"duoOneRandomSpeed" : [ 1000.0 ],
+					"duoOneRandomSteadyTime" : [ 0 ],
+					"duoTwoRandom" : [ 0 ],
+					"duoTwoRandomSpeed" : [ 250.0 ],
+					"duoTwoRandomSteadyTime" : [ 0 ],
+					"localInputXFade" : [ 0 ],
+					"otherInputXFade" : [ 0 ],
+					"panPosDial" : [ 0 ],
+					"panPosNum" : [ 0 ],
+					"panTravelTime" : [ 5 ],
+					"plane01NotSure" : [ 1.0 ],
+					"plane01XPos" : [ 0.0 ],
+					"plane01XStretch" : [ 1.0 ],
+					"plane01YPos" : [ 0.0 ],
+					"plane01YStretch" : [ 0.66 ],
+					"plane01ZPos" : [ 0.0 ],
+					"screenOneTexture" : [ 1 ],
+					"screenOneTexture[1]" : [ 1 ],
+					"textureDuoOne" : [ 1 ],
+					"textureDuoTwo" : [ 1 ],
+					"cueName" : [ "HOME!" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
